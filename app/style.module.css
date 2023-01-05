@@ -1,0 +1,21 @@
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    aling-items:center
+
+}
+.img{
+    width:500px;
+    height:500px;
+}
+.imgContainer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    aling-items:center;
+    flex-direction:column;
+    margin: .5rem 1rem
+}
